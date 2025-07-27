@@ -1,4 +1,3 @@
 # Rubikova
-ne bash funkcionalna rubikova kocka so unity
+rubikova kocka vo unity
 
-za kontrolite, snajdi se
