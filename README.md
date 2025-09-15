@@ -1,3 +1,3 @@
 # Rubikova
-rubikova kocka vo unity
+Rubiks cube made with Unity3D
 
